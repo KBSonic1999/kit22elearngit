@@ -6,3 +6,4 @@ newline2
 mainline1
 newline3
 mainline2
+newline4
